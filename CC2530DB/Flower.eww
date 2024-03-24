@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\Flower.ewp</path>
+    </project>
+    <batchBuild>
+        <batchDefinition>
+            <name>ALL</name>
+            <member>
+                <project>Flower</project>
+                <configuration>DIYRuZ_Flower</configuration>
+            </member>
+        </batchDefinition>
+    </batchBuild>
+</workspace>
