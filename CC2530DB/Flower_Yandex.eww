@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workspace>
     <project>
-        <path>$WS_DIR$\Flower.ewp</path>
+        <path>$WS_DIR$\Flower_Yandex.ewp</path>
     </project>
     <batchBuild>
         <batchDefinition>
             <name>ALL</name>
             <member>
-                <project>Flower</project>
-                <configuration>DIYRuZ_Flower</configuration>
+                <project>Flower_Yandex</project>
+                <configuration>DIYRuZ_Flower_Yandex</configuration>
             </member>
         </batchDefinition>
     </batchBuild>

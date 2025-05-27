@@ -775,7 +775,7 @@
                 </option>
                 <option>
                     <name>OutputFile</name>
-                    <state>Flower.d51</state>
+                    <state>Flower_Yandex.d51</state>
                 </option>
                 <option>
                     <name>OutputFormat</name>
@@ -973,7 +973,7 @@
                 </option>
                 <option>
                     <name>ExtraOutputFile</name>
-                    <state>$PROJ_DIR$\..\firmwares\Flower_CHDTECH.hex</state>
+                    <state>$PROJ_DIR$\..\firmwares\Flower_Yandex_CHDTECH.hex</state>
                 </option>
                 <option>
                     <name>ExtraOutputFormat</name>
@@ -1143,7 +1143,7 @@
         </settings>
     </configuration>
     <configuration>
-        <name>DIYRuZ_Flower</name>
+        <name>Flower_Yandex</name>
         <toolchain>
             <name>8051</name>
         </toolchain>
@@ -1254,15 +1254,15 @@
                 </option>
                 <option>
                     <name>ExePath</name>
-                    <state>DIYRuZ_Flower\Exe</state>
+                    <state>Flower_Yandex\Exe</state>
                 </option>
                 <option>
                     <name>ObjPath</name>
-                    <state>DIYRuZ_Flower\Obj</state>
+                    <state>Flower_Yandex\Obj</state>
                 </option>
                 <option>
                     <name>ListPath</name>
-                    <state>DIYRuZ_Flower\List</state>
+                    <state>Flower_Yandex\List</state>
                 </option>
                 <option>
                     <name>GOutputBinary</name>
@@ -1420,7 +1420,7 @@
                 </option>
                 <option>
                     <name>OGChipConfigPath</name>
-                    <state>C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.1\8051\bin\..\config\devices\Texas Instruments\CC25xx\3x\CC2530F256.i51</state>
+                    <state>D:\IAR Systems\Embedded Workbench 8.1\8051\bin\..\config\devices\Texas Instruments\CC25xx\3x\CC2530F256.i51</state>
                 </option>
             </data>
         </settings>
@@ -1916,7 +1916,7 @@
                 </option>
                 <option>
                     <name>OutputFile</name>
-                    <state>Flower.d51</state>
+                    <state>Flower_Yandex.d51</state>
                 </option>
                 <option>
                     <name>OutputFormat</name>
@@ -2862,7 +2862,7 @@
             <name>$PROJ_DIR$\..\..\..\Tools\CC2530DB\f8wCoord.cfg</name>
             <excluded>
                 <configuration>CHDTECH_DEV</configuration>
-                <configuration>DIYRuZ_Flower</configuration>
+                <configuration>Flower_Yandex</configuration>
             </excluded>
         </file>
         <file>
@@ -2872,7 +2872,7 @@
             <name>$PROJ_DIR$\..\..\..\Tools\CC2530DB\f8wRouter.cfg</name>
             <excluded>
                 <configuration>CHDTECH_DEV</configuration>
-                <configuration>DIYRuZ_Flower</configuration>
+                <configuration>Flower_Yandex</configuration>
             </excluded>
         </file>
         <file>
@@ -2954,10 +2954,10 @@
     <group>
         <name>zstack-lib</name>
         <file>
-            <name>$PROJ_DIR$\..\zstack-lib\battery.h</name>
+            <name>$PROJ_DIR$\..\zstack-lib\battery.c</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\zstack-lib\bettery.c</name>
+            <name>$PROJ_DIR$\..\zstack-lib\battery.h</name>
         </file>
         <file>
             <name>$PROJ_DIR$\..\zstack-lib\commissioning.c</name>
